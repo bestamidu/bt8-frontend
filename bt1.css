@@ -1,0 +1,44 @@
+.menu {
+    text-align: center;
+    display: flex;
+    width: 450px;
+}
+
+.para {
+    text-align: center;
+    font-weight: lighter;
+}
+
+h1 {
+    padding: 10px;
+    font-size: 25px;
+    position: relative;
+    left: 40px;
+    width: 280px;
+    text-align: center; 
+    
+}
+
+.menu1, .menu2 {
+    background-color: white;
+    border: 1px solid rgb(225, 225, 225);
+    padding: 20px;
+}
+
+.read-more {
+    text-decoration: none;
+    border: 1px solid black;
+    width: 100px;
+    padding: 10px;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.menu2{
+    border-right: 1px solid black;
+}

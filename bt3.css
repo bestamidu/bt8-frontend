@@ -1,0 +1,49 @@
+.para1{
+    font-size: 25px;
+    border-bottom: 3px solid orange;
+    padding-bottom: 10px;
+    width: 180px;
+    color: rgb(0, 0, 0);
+}
+.menu{
+    display: flex;
+   
+    gap: 20px;
+    width: 400px;
+}
+.body{
+    width: 600px;
+    margin: 20px;
+    
+}
+.menu img{
+    width: 280px;
+    height: 200px;
+    margin-top: 25px;
+}
+hr{
+    
+        border: 1px solid rgb(233, 233, 233);
+        margin-top: 20px; 
+        height: 450px;
+    }
+.read-more{
+    width: 250px;
+    border: 2px solid red;
+    color: red;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+.menu p{
+    font-weight: lighter;
+    opacity:0.5;
+
+}
+p{
+    margin-bottom: 60px;
+}
